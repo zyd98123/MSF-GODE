@@ -18,3 +18,13 @@ Thanks to DCRNN for their excellent work. Here is their citation:
 }
 ```
 
+Our program framework is built on STGODE, Here is their citation:
+```
+@inproceedings{fang2021spatial,
+  title={Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting},
+  author={Fang, Zheng and Long, Qingqing and Song, Guojie and Xie, Kunqing},
+  booktitle={Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  pages={364--373},
+  year={2021}
+}
+```
