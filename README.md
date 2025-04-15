@@ -1,8 +1,10 @@
 # MSF-GODE
 MSF-GODE DATA
-This is the 
+This is the data we used in our submission to Information Fusion
+
 data :https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX or https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g#list/path=%2F
-Thanks for DCRNN work
+
+Thanks to DCRNN for their excellent work. Here is their citation:
 
 Citation
 @inproceedings{li2018dcrnn_traffic,
