@@ -1,7 +1,7 @@
 # MSF-GODE
 
 MSF-GODE DATA
-This is the data we used in our submission to Information Fusion
+This is the data we used in our submission to Knowledge-Based Systems.
 
 data :https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX or https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g#list/path=%2F
 
